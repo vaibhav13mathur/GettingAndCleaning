@@ -1,5 +1,4 @@
-# GettingAndCleaning
-Getting and Cleaning Data Assignment
+# Getting And Cleaning Assignment
 
 This is a repository for for submission of assignment of Getting and Cleaning Data Course on Coursera
 
